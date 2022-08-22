@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorDemo</string>
+
+    <string name="desc_eq">equals</string>
+
+    <string name="inf">∞</string>
+</resources>
